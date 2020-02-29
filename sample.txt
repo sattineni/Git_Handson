@@ -1,1 +1,1 @@
-This is Git_Handson project
+This is Git_Handson project.
