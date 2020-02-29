@@ -10,4 +10,4 @@ Adding fourth line
 Adding fifth line 
 resolving merge conflicts
 adding Sixth line
-
+adding new line
