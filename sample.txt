@@ -1,2 +1,7 @@
 This is Git_Handson project.
 Git_Handson Assesment
+Adding third line
+Adding fourth line
+Adding fifth line 
+resolving merge conflicts
+adding Sixth line
