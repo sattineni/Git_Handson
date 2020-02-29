@@ -1,1 +1,5 @@
 *.html
+.txt
+*.log
+*.orig
+
