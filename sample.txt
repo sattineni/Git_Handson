@@ -13,3 +13,4 @@ adding Sixth line
 adding new line
 testing rebase
 adding new line
+resolve merge conflists
